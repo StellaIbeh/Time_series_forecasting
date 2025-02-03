@@ -14,11 +14,15 @@ test.csv: Contains data for making predictions and submitting to Kaggle.
 Key Features:
 
 DEWP: Dew point temperature.
+
+
 TEMP: Temperature.
+
+
 PRES: Pressure.
+
 Iws: Cumulated wind speed.
-Is: Cumulated hours of snow.
-Ir: Cumulated hours of rain.
+
 pm2.5: PM2.5 concentration (target variable).
 
 
